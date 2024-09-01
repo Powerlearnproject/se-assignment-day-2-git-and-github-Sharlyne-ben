@@ -30,7 +30,15 @@ Disadvantages: Limits the ability to attract external contributors.
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
+Stage Your Changes: Use git add <file> to stage files for the commit.Commit Your Changes: Use git commit -m "commit message" to commit your changes.Push to GitHub: Use git push origin main to push your changes to the repository.
+
+Commits are snapshots of your project at a specific point in time. They help in tracking changes, understanding the history of a project, and managing different versions.
+
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
+
+Branching allows you to create a separate version of the project where you can experiment without affecting the main codebase. It is crucial for collaborative development as it enables multiple people to work on different features or bug fixes simultaneously.
+
+Creating a Branch:Use git branch <branch-name> to create a new branch.Use git checkout <branch-name> to switch to the branch.Using and Merging Branches:Develop your feature or fix on the branch.Once completed, merge it back into the main branch using git merge <branch-name>.
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
