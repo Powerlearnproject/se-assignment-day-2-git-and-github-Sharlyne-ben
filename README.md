@@ -42,6 +42,10 @@ Creating a Branch:Use git branch <branch-name> to create a new branch.Use git ch
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
+Pull Requests are used to propose changes to the main branch. They facilitate code review and collaboration by allowing others to review, comment on, and approve changes before merging.
+
+Creating a Pull Request:Push your branch to GitHub.Open a pull request from your branch to the main branch.Review and merge once approved.
+
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
 Forking creates a personal copy of someone else's repository on your GitHub account. It allows you to experiment without affecting the original repository.
