@@ -17,6 +17,14 @@
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
+Forking creates a personal copy of someone else's repository on your GitHub account. It allows you to experiment without affecting the original repository.
+
+Difference between forking and cloning 
+
+Forking: Useful when you want to contribute to someone else's project. Changes can be merged back into the original repository via a pull request.
+
+Cloning: Copies a repository to your local machine. You can push changes directly to the original repository if you have the necessary permissions.
+
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
 Issues: Used to track bugs, enhancements, and other tasks. They provide a way to discuss and prioritize work.
